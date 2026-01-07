@@ -1,3 +1,8 @@
+#! Programming Basics
+#! Date: 07.01.2026
+#! Author: Behruz Khaitov
+
+
 def largest_of_two(num1, num2):
     if num1 > num2:
         return f"The first number is larger --> {num1}"
@@ -11,3 +16,4 @@ num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 
 print(largest_of_two(num1, num2))
+
