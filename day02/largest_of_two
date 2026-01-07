@@ -1,0 +1,13 @@
+def largest_of_two(num1, num2):
+    if num1 > num2:
+        return f"The first number is larger --> {num1}"
+    elif num1 < num2:
+        return f"The second number is larger --> {num2}"
+    else:
+        return f"Both numbers are equal {num1} == {num2}"
+
+
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+
+print(largest_of_two(num1, num2))
