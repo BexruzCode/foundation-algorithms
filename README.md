@@ -11,6 +11,10 @@ I am focusing on building strong programming foundations and logical thinking.
   - sum_of_digits.py  
     Calculates the sum of digits of a given number.
 
+- day02
+  - even_or_odd.py  
+    Checks whether a number is even or odd.
+
 ## Learning Goals
 
 - Improve algorithmic thinking
@@ -20,4 +24,6 @@ I am focusing on building strong programming foundations and logical thinking.
 
 ## Progress
 
-- Day01 ✅ Basic conditions and loops
+- Day01 ✅ Basic conditions and loops  
+- Day02 ✅ Even / odd logic and functions
+
