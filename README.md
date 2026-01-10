@@ -15,6 +15,10 @@ I am focusing on building strong programming foundations and logical thinking.
   - even_or_odd.py  
     Checks whether a number is even or odd.
 
+- day03
+  - max_of_three_numbers.py  
+    Finds the maximum of three numbers (including equal values).
+
 ## Learning Goals
 
 - Improve algorithmic thinking
@@ -25,5 +29,6 @@ I am focusing on building strong programming foundations and logical thinking.
 ## Progress
 
 - Day01 ✅ Basic conditions and loops  
-- Day02 ✅ Even / odd logic and functions
+- Day02 ✅ Even / odd logic and functions  
+- Day03 ✅ Maximum of three numbers with edge cases
 
