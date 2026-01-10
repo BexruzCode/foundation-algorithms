@@ -1,6 +1,11 @@
+#! Programming Basics.
+#! Date: 10.01.2026.
+#! Author: Behruz Khaitov.
+
+
 def age_category_checker(age):
     if age < 0:
-        return "Invalid age!"
+        return "Invalid age.!!!"
     elif age <= 12:
         return "Child"
     elif age <= 17:
@@ -9,6 +14,6 @@ def age_category_checker(age):
         return "Adult"
 
 
-age = int(input("Enter your age: "))
+age = int(input("Yoshingizni kiriting: "))
 print(age_category_checker(age))
 
