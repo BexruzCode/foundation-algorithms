@@ -30,5 +30,7 @@ I am focusing on building strong programming foundations and logical thinking.
 
 - Day01 ✅ Basic conditions and loops  
 - Day02 ✅ Even / odd logic and functions  
-- Day03 ✅ Maximum of three numbers with edge cases
+- Day03 ✅ Maximum of three numbers with edge cases  
+- Day04 ✅ Grade evaluation and divisibility checks (5 and 10)
+
 
