@@ -4,6 +4,7 @@ This repository contains my daily Python algorithm practice.
 The goal of this project is to build strong programming foundations, improve logical thinking, and develop problem-solving skills step by step.
 
 📁 Repository Structure
+
 📅 Day 01
 
 positive_negative.py
